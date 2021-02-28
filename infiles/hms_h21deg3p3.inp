@@ -1,7 +1,7 @@
 !------------------------------------------------------------------------------
 ! Input file for MC_SINGLE_ARM 					
 !------------------------------------------------------------------------------
- 10000000	Monte-Carlo trials
+ 2500000	Monte-Carlo trials
         1       Spectrometer (1=HMS, 2=SHMS, 3=..)
      3300	Spectrometer momentum (in MeV/c)
      20.995	Spectrometer angle (in degrees)C
