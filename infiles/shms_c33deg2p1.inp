@@ -7,8 +7,8 @@
      32.975	Spectrometer angle (in degrees)C
     -15.0	M.C. DP/P  down limit 
      25.0	M.C. DP/P  up   limit 
-    -65.0	M.C. Theta down limit (mr)
-     65.0	M.C. Theta down limit (mr)
+    -55.0	M.C. Theta down limit (mr)
+     55.0	M.C. Theta down limit (mr)
     -60.0	M.C. Phi   down limit (mr)
      60.0	M.C. Phi   down limit (mr)C
      0.06	Horiz beam spot size in cm (Full width of +/- 3 sigma)
