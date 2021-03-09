@@ -1,7 +1,7 @@
 !------------------------------------------------------------------------------
 ! Input file for MC_SHMS_SINGLE                 February 10, 2020  
 !------------------------------------------------------------------------------
-     1000000    Monte-Carlo trials
+     10000000    Monte-Carlo trials
      2          Spectrometer (1=HMS, 2=SHMS, 3=..)
      3932     Spectrometer momentum (in MeV/c)
      21.035     Spectrometer angle (in degrees)

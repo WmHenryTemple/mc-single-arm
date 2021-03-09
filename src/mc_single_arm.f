@@ -87,7 +87,7 @@ C Control flags (from input file)
 c	common /hutflag/ cer_flag,vac_flag
 C Hardwired control flags.
 	logical*4 hut_ntuple	/.true./
-        logical*4 spec_ntuple   /.true./
+        logical*4 spec_ntuple   /.false./
 	logical*4 decay_flag	/.false./
 
 	real*8	dpp_var(2),dth_var(2),dph_var(2),ztg_var(2)
