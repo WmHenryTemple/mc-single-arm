@@ -87,7 +87,7 @@ C Control flags (from input file)
 c	common /hutflag/ cer_flag,vac_flag
 C Hardwired control flags.
 	logical*4 hut_ntuple	/.true./
-        logical*4 spec_ntuple   /.true./
+        logical*4 spec_ntuple   /.false./
 	logical*4 decay_flag	/.false./
 
 	real*8	dpp_var(2),dth_var(2),dph_var(2),ztg_var(2)
@@ -458,7 +458,7 @@ C------------------------------------------------------------------------------C
 	  write(6,*) 'Using random seed based on clock time'
           write(6,*) 'Starting random number seed: ',itime
 C DJG - If you want to use default (fixed) seed, comment out the line below
-          call sgrnd(itime)
+C          call sgrnd(itime)
 
 	do Itrial = 1,n_trials
 	   if(ispec.eq.1) then

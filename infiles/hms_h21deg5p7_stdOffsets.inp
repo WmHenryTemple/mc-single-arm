@@ -23,7 +23,7 @@
      890.4	one radiation length of target material (in cm)
      0.0866     Beam x offset (cm)  +x = beam left
      0.0	Beam y offset (cm)  +y = up
-     -0.3     Target z offset (cm)+z = downstream
+     0.0573     Target z offset (cm)+z = downstream
     -0.1077     Spectrometer x offset (cm) +x = down
      0.1290     Spectrometer y offset (cm)
      0.0        Spectrometer z offset (cm)
